@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/learn2_variables.dir/main.cpp.o  -o learn2_variables 

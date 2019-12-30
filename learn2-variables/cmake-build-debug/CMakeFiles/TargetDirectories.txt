@@ -1,0 +1,3 @@
+/daniel/CLionProjects/learn2-variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/daniel/CLionProjects/learn2-variables/cmake-build-debug/CMakeFiles/learn2_variables.dir
+/daniel/CLionProjects/learn2-variables/cmake-build-debug/CMakeFiles/edit_cache.dir
